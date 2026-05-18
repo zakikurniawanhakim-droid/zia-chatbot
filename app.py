@@ -10,7 +10,7 @@ client = Groq(api_key=API_KEY)
 
 conversation_history = []
 
-SYSTEM_PROMPT = """Kamu adalah asisten manajemen waktu pribadi bernama "Zia" yang cerdas dan terorganisir.
+SYSTEM_PROMPT = """Kamu adalah asisten manajemen waktu pribadi bernama "OXfreezo" yang cerdas dan terorganisir.
 
 Tugasmu:
 1. Membantu pengguna mencatat dan mengatur jadwal harian mereka
